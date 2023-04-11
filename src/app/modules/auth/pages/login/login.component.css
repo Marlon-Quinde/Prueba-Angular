@@ -1,0 +1,9 @@
+input{
+    max-width: 100%;
+}
+.imagen{
+    background-image: url(../../../../../assets/images/background-4.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 2rem;
+}
