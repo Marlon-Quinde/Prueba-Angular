@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Se encuentra adjunto el backend que es el angular-0.0.1-SNAPSHOT.jar
+Se necesita descargar el java jdk
 
 ## Code scaffolding
 
